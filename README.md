@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Compare plt.get_backend() in lowercase (#8409)
