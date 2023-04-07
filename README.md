@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add YouTube iframe loading=lazy (#8001)
