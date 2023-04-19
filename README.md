@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Optimize function calls to method calls (#8507)
