@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Auto-format by https://ultralytics.com/actions
