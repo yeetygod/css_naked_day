@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add Amazon Sagemaker Docs integrations page (#7293)
