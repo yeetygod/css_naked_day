@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add NCNN Docs Integrations Page (#8562)
