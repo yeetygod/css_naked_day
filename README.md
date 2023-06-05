@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Fix OpenVINO missing batch-size bug (#9264)
