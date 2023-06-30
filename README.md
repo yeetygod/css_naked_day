@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add PR Summary step to Ultralytics Actions (#7675)
