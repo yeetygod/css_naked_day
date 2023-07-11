@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+fix for predicting with batch_size > 1 (#47)
