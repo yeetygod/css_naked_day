@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
