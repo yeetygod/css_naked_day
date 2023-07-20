@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Docs partial mdformat improvements (#7378)
