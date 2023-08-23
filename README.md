@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix heatmaps width-height order bug (#7184)
