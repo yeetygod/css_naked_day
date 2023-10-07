@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
