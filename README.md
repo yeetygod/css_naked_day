@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Allow Annotator PIL.Image inputs (#8397)
