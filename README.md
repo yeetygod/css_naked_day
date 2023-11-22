@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
