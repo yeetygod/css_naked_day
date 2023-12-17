@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
