@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
