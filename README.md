@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
