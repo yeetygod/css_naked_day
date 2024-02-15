@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
