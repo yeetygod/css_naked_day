@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix Multi-GPU resume bug (#7328)
