@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Use pathlib in DOTA ops (#7552)
