@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+fix yolo classify model loading error (#9196)
