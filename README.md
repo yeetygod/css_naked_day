@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
