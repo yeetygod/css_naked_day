@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
