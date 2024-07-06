@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
