@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+YOLOv8 INT8 TFLite Inference Example (#7317)
