@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Retry once for Docker CI failures (#8164)
