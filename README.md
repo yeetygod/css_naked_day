@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
