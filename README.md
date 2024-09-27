@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
