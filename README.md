@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Feature: Create HUB Models from CLI or Python Script (#7316)
