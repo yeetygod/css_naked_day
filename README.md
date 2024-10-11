@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
