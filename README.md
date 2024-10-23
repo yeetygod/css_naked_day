@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
