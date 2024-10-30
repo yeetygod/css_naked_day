@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
